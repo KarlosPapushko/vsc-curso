@@ -1,4 +1,6 @@
-let nombre = "Lucas"
-let saludo = "hola" + nombre 
+numA = 30
+numB = 20
 
-console.log(saludo)
+res = numB + numA
+console.log(res)
+
