@@ -1,1 +1,4 @@
-console.log("que 1 miras papa")
+let nombre = "Lucas"
+let saludo = "hola" + nombre 
+
+console.log(saludo)
